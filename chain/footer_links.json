@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Company",
+    "links": [
+      {
+        "text": "About Us",
+        "url": "https://docs.bccscan.com/"
+      },
+      {
+        "text": "Brand Assets",
+        "url": ""
+      },
+      {
+        "text": "Contacts Us",
+        "url": "mailto:info@bccscan.io"
+      },
+      {
+        "text": "Careers",
+        "url": ""
+      },
+      {
+        "text": "Terms of Service",
+        "url": ""
+      },
+      {
+        "text": "Bug Bounty",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Blokista Network Ecosystem",
+    "links": [
+      {
+        "text": "Blokista Coin",
+        "url": "https://bcccoin.io/"
+      },
+      {
+        "text": "Blokista Swap",
+        "url": "https://bccswap.com/"
+      },
+      {
+        "text": "Blokista NFT Marketplace",
+        "url": "https://www.bccnft.com/"
+      },
+      {
+        "text": "Blokista Staking",
+        "url": "https://staking.bccscan.com/"
+      },
+      {
+        "text": "Blokista Wallet",
+        "url": ""
+      },
+      {
+        "text": "Blokista Exchange",
+        "url": "https://bccexchange.com/"
+      },
+      {
+        "text": "Blokista Metaverse",
+        "url": "https://bccmetaverse.com/"
+      },
+      {
+        "text": "Blokista Cross Bridge",
+        "url": "https://bridge.bccscan.com/"
+      }
+    ]
+  },
+  {
+    "title": "Products & Services",
+    "links": [
+      {
+        "text": "Advertise",
+        "url": ""
+      },
+      {
+        "text": "Explorer-as-a Service (EaaS)",
+        "url": ""
+      },
+      {
+        "text": "API Plans",
+        "url": ""
+      },
+      {
+        "text": "Priority Support",
+        "url": ""
+      },
+      {
+        "text": "Blockscan",
+        "url": ""
+      },
+      {
+        "text": "Blockscan Chat",
+        "url": ""
+      }
+    ]
+  }
+]
