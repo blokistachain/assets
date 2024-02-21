@@ -33,15 +33,15 @@
     "links": [
       {
         "text": "Blokista Coin",
-        "url": "https://bcccoin.io/"
+        "url": ""
       },
       {
         "text": "Blokista Swap",
-        "url": "https://bccswap.com/"
+        "url": "https://blokswap.io/"
       },
       {
         "text": "Blokista NFT Marketplace",
-        "url": "https://www.bccnft.com/"
+        "url": ""
       },
       {
         "text": "Blokista Staking",
@@ -53,15 +53,15 @@
       },
       {
         "text": "Blokista Exchange",
-        "url": "https://bccexchange.com/"
+        "url": ""
       },
       {
         "text": "Blokista Metaverse",
-        "url": "https://bccmetaverse.com/"
+        "url": ""
       },
       {
         "text": "Blokista Cross Bridge",
-        "url": "https://bridge.bccscan.com/"
+        "url": "https://bridge.blokswap.io"
       }
     ]
   },
