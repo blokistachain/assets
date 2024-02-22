@@ -6,10 +6,10 @@
 		"logo": "https://raw.githubusercontent.com/blokistachain/TokenBridgeList/main/bcc_logo.png",
 		"categories": ["DEX"],
 		"shortDescription": "Blokista Swap is the official decentralized exchange of the Blokista Chain, offering users a state-of-the-art platform for swapping, staking, and providing liquidity for a wide range of digital assets. ",
-		"site": "https://bccswap.com/",
+		"site": "https://blokswap.io/",
 		"external": true,
 		"description": "Blokista Swap is the official decentralized exchange of the Blokista Chain, offering users a state-of-the-art platform for swapping, staking, and providing liquidity for a wide range of digital assets. Built on the Blokista Chain's secure and scalable infrastructure, Blokista Swap combines the best of blockchain technology and decentralized finance to offer a user-friendly, fast, and cost-effective trading experience.",
-		"url": "https://bccswap.com/"
+		"url": "https://blokswap.io/"
 	},
 	{
 		"author": "Blokista Token Bridge",
@@ -19,9 +19,9 @@
 		"categories": [ "Bridge"],
 		"shortDescription": "Blokista Token Bridge is a cutting-edge decentralized tool that facilitates the seamless transfer of digital assets between different blockchain networks.",
 		"external": true,
-		"site": "https://bridge.bccscan.com",
+		"site": "https://bridge.blokswap.io/",
 		"description": "Blokista Token Bridge is a cutting-edge decentralized tool that facilitates the seamless transfer of digital assets between different blockchain networks. Whether you want to move tokens between Ethereum and Binance Smart Chain or other compatible blockchains, the Blokista Token Bridge provides a secure and efficient way to bridge the gap. It offers users the ability to maintain liquidity and access a broader range of DeFi applications, enhancing the interoperability of the blockchain ecosystem.",
-		"url": "https://bridge.bccscan.com/"
+		"url": "https://bridge.blokswap.io/"
 	},
 	{
 		"author": "Blokista Token Locker",
@@ -67,9 +67,9 @@
 		"categories": [ "NFT Marketplace"],
 		"shortDescription": "Blokista NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Blokista empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts.",
 		"external": true,
-		"site": "http://bccnft.com",
+		"site": "https://nftiverse.io/",
 		"description": "Blokista NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Blokista empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts. Whether you're an NFT artist looking to monetize your work or an art lover seeking to discover and acquire one-of-a-kind digital treasures, Blokista NFT Marketplace is the perfect destination to explore the world of digital collectibles.",
-		"url": "https://bccnft.com"
+		"url": "https://nftiverse.io/"
 	},
 	{
 		"author": "Blokista Wallet",
